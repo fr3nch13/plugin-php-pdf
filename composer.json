@@ -1,0 +1,21 @@
+{
+	"name" : "nih-fo/plugin-php-pdf",
+	"description" : "CakePHP Plugin: Parses, reads, and writes PDF files and PDF Forms.",
+	"type" : "cakephp-plugin",
+	"keywords" : ["cakephp", "plugin", "php-pdf"],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Brian French",
+			"role": "Developer"
+		},
+		{
+			"name": "Joshua Knust",
+			"role": "Manager"
+		} 
+	],
+	"require": {
+		"nih-fo/plugin-utilities": "1.*",
+		"mikehaertl/php-pdftk": "0.2.*"
+	}
+}
