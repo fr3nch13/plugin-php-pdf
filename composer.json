@@ -1,5 +1,5 @@
 {
-	"name" : "nih-fo/plugin-php-pdf",
+	"name" : "fr3nch13/plugin-php-pdf",
 	"description" : "CakePHP Plugin: Parses, reads, and writes PDF files and PDF Forms.",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "php-pdf"],
@@ -15,7 +15,7 @@
 		} 
 	],
 	"require": {
-		"nih-fo/plugin-utilities": "1.*",
+		"fr3nch13/plugin-utilities": "1.*",
 		"mikehaertl/php-pdftk": "0.2.*"
 	}
 }
